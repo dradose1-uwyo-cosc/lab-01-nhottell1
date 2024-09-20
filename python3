@@ -1,0 +1,3 @@
+1st_variable = 10
+
+print(1st_variable)
